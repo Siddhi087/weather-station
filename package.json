@@ -1,0 +1,20 @@
+
+{
+  "name": "weather-station",
+  "version": "1.0.0",
+  "description": "Weather Station web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "mongoose": "^9.11.4"
+  }
+}
